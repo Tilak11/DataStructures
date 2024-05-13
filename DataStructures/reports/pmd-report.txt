@@ -1,0 +1,36 @@
+src/edu/ncsu/csc316/dsa/data/Identifiable.java:15:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getId': the method is declared in an interface type
+src/edu/ncsu/csc316/dsa/data/Identifiable.java:15:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getId': the method is declared in an interface type
+src/edu/ncsu/csc316/dsa/data/Student.java:192:	SimplifyBooleanReturns:	SimplifyBooleanReturns: Avoid unnecessary if..then..else statements when returning booleans
+src/edu/ncsu/csc316/dsa/data/Student.java:192:	SimplifyBooleanReturns:	SimplifyBooleanReturns: Avoid unnecessary if..then..else statements when returning booleans
+src/edu/ncsu/csc316/dsa/list/ArrayBasedList.java:143:	SimplifyBooleanReturns:	SimplifyBooleanReturns: Avoid unnecessary if..then..else statements when returning booleans
+src/edu/ncsu/csc316/dsa/list/ArrayBasedList.java:143:	SimplifyBooleanReturns:	SimplifyBooleanReturns: Avoid unnecessary if..then..else statements when returning booleans
+src/edu/ncsu/csc316/dsa/list/SinglyLinkedList.java:272:	SimplifyBooleanReturns:	SimplifyBooleanReturns: Avoid unnecessary if..then..else statements when returning booleans
+src/edu/ncsu/csc316/dsa/list/SinglyLinkedList.java:272:	SimplifyBooleanReturns:	SimplifyBooleanReturns: Avoid unnecessary if..then..else statements when returning booleans
+src/edu/ncsu/csc316/dsa/list/positional/PositionalLinkedList.java:205:	SimplifyBooleanReturns:	SimplifyBooleanReturns: Avoid unnecessary if..then..else statements when returning booleans
+src/edu/ncsu/csc316/dsa/list/positional/PositionalLinkedList.java:205:	SimplifyBooleanReturns:	SimplifyBooleanReturns: Avoid unnecessary if..then..else statements when returning booleans
+src/edu/ncsu/csc316/dsa/list/positional/PositionalLinkedList.java:237:	SimplifyBooleanReturns:	SimplifyBooleanReturns: Avoid unnecessary if..then..else statements when returning booleans
+src/edu/ncsu/csc316/dsa/list/positional/PositionalLinkedList.java:237:	SimplifyBooleanReturns:	SimplifyBooleanReturns: Avoid unnecessary if..then..else statements when returning booleans
+src/edu/ncsu/csc316/dsa/sorter/Sorter.java:13:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'sort': the method is declared in an interface type
+src/edu/ncsu/csc316/dsa/sorter/Sorter.java:13:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'sort': the method is declared in an interface type
+test/edu/ncsu/csc316/dsa/data/StudentTest.java:88:	UseAssertSameInsteadOfAssertTrue:	UseAssertSameInsteadOfAssertTrue: Use assertSame(x, y) instead of assertTrue(x==y), or assertNotSame(x,y) vs assertFalse(x==y)
+test/edu/ncsu/csc316/dsa/data/StudentTest.java:88:	UseAssertSameInsteadOfAssertTrue:	UseAssertSameInsteadOfAssertTrue: Use assertSame(x, y) instead of assertTrue(x==y), or assertNotSame(x,y) vs assertFalse(x==y)
+test/edu/ncsu/csc316/dsa/data/StudentTest.java:89:	UseAssertSameInsteadOfAssertTrue:	UseAssertSameInsteadOfAssertTrue: Use assertSame(x, y) instead of assertTrue(x==y), or assertNotSame(x,y) vs assertFalse(x==y)
+test/edu/ncsu/csc316/dsa/data/StudentTest.java:89:	UseAssertSameInsteadOfAssertTrue:	UseAssertSameInsteadOfAssertTrue: Use assertSame(x, y) instead of assertTrue(x==y), or assertNotSame(x,y) vs assertFalse(x==y)
+test/edu/ncsu/csc316/dsa/list/positional/PositionalLinkedListTest.java:75:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'first'.
+test/edu/ncsu/csc316/dsa/list/positional/PositionalLinkedListTest.java:75:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'first'.
+test/edu/ncsu/csc316/dsa/list/positional/PositionalLinkedListTest.java:89:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'first'.
+test/edu/ncsu/csc316/dsa/list/positional/PositionalLinkedListTest.java:89:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'first'.
+test/edu/ncsu/csc316/dsa/list/positional/PositionalLinkedListTest.java:139:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'first'.
+test/edu/ncsu/csc316/dsa/list/positional/PositionalLinkedListTest.java:139:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'first'.
+test/edu/ncsu/csc316/dsa/list/positional/PositionalLinkedListTest.java:140:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'sec'.
+test/edu/ncsu/csc316/dsa/list/positional/PositionalLinkedListTest.java:140:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'sec'.
+test/edu/ncsu/csc316/dsa/list/positional/PositionalLinkedListTest.java:157:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'first'.
+test/edu/ncsu/csc316/dsa/list/positional/PositionalLinkedListTest.java:157:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'first'.
+test/edu/ncsu/csc316/dsa/list/positional/PositionalLinkedListTest.java:158:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'sec'.
+test/edu/ncsu/csc316/dsa/list/positional/PositionalLinkedListTest.java:158:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'sec'.
+test/edu/ncsu/csc316/dsa/list/positional/PositionalLinkedListTest.java:174:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'first'.
+test/edu/ncsu/csc316/dsa/list/positional/PositionalLinkedListTest.java:174:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'first'.
+test/edu/ncsu/csc316/dsa/list/positional/PositionalLinkedListTest.java:191:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'first'.
+test/edu/ncsu/csc316/dsa/list/positional/PositionalLinkedListTest.java:191:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'first'.
+test/edu/ncsu/csc316/dsa/list/positional/PositionalLinkedListTest.java:195:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'five'.
+test/edu/ncsu/csc316/dsa/list/positional/PositionalLinkedListTest.java:195:	UnusedLocalVariable:	UnusedLocalVariable: Avoid unused local variables such as 'five'.
